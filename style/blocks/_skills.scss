@@ -1,0 +1,37 @@
+.card-img{
+    width: 150px;
+    height: 150px;
+}
+
+.card{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 0 20px 0;
+}
+.card-item{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.skills-slider{
+    height: 300px;
+}
+.skills{
+    padding-bottom: 60px;
+}
+.gallery-item{
+    height: 400px;
+    width: 800px;
+    background-color: blue;
+    margin-top: 30px;
+}
+.portfolio-box{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 30px;
+}
